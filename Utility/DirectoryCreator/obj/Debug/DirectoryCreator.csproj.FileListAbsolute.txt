@@ -7,3 +7,6 @@ c:\users\pranav.kawle\documents\visual studio 2013\Projects\Utility\DirectoryCre
 c:\users\pranav.kawle\documents\visual studio 2013\Projects\Utility\DirectoryCreator\bin\Debug\DirectoryCreator.pdb
 c:\users\pranav.kawle\documents\visual studio 2013\Projects\Utility\DirectoryCreator\obj\Debug\DirectoryCreator.exe
 c:\users\pranav.kawle\documents\visual studio 2013\Projects\Utility\DirectoryCreator\obj\Debug\DirectoryCreator.pdb
+D:\Projects\GitHub\RandomTools\Utility\DirectoryCreator\bin\Debug\DirectoryCreator.exe.config
+D:\Projects\GitHub\RandomTools\Utility\DirectoryCreator\obj\Debug\DirectoryCreator.exe
+D:\Projects\GitHub\RandomTools\Utility\DirectoryCreator\obj\Debug\DirectoryCreator.pdb
